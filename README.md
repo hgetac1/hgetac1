@@ -1,4 +1,4 @@
-![Hi there 👋](https://res.cloudinary.com/dwwne5d3n/image/upload/v1595479529/favorite1_qab2w9.png)
+![Hi there 👋](https:///res-console.cloudinary.com/dwwne5d3n/thumbnails/transform/v1/image/upload/v1595479697/https:///res-console.cloudinary.com/dwwne5d3n/thumbnails/transform/v1/image/upload//v1595479697/Z2l0aHViX2x2b2N0dQ==/drilldown)
 
 <!--
 **hgetac1/hgetac1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
