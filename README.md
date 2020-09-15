@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there. I'm Haleluya 👋🏽
+
+## I'm a Sister, Learner, and Data Geek!
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- ⚡ Fun fact: ...
+
+## Let's Talk: 
+
+## Languages & Tools: 
+
+## Latest Blog Posts: 
