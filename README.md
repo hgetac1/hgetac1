@@ -1,10 +1,10 @@
-### Hi there. I'm Haleluya 👋🏽
+<h2 align="center">Hi 👋🏽, I'm Haleluya.</h1>
 
 ## I'm a Sister, Learner, and Data Geek!
 - 🔭 I’m currently working on a project to assist the residents of Baltimore City 🏙️. 
 - 💡 I’m currently learning how powerful SQL really is. 
 - 💬 Ask me about: music 🎧, growth 🌱, & the Gospel 🙌🏽.
-- ⚡ Fun fact: I have four crazy siblings that are my best friends.   
+- ⚡ Fun fact: My four crazy siblings are my best friends.    
 
 ## Let's Talk: 
 [<img align="left" alt="github.io site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
