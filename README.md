@@ -1,4 +1,4 @@
-![](header_image.png)
+[![bg][banner]][website]
 <h2 align="center">Hi 👋🏽, I'm Haleluya.</h1>
 
 ## I'm a Sister, Learner, and Data Geek!
@@ -29,5 +29,6 @@ c o m i n g 🔜
 
 <!-- BLOG-POST-LIST:END -->
 
+[banner]: https://raw.githubusercontent.com/hgetac1/hgetac1/master/header_image.png
 [website]: http://weightheway.com/
 [linkedin]: https://www.linkedin.com/in/haleluya-getachew/
