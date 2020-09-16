@@ -29,6 +29,6 @@ c o m i n g 🔜
 
 <!-- BLOG-POST-LIST:END -->
 
-[banner]: https://raw.githubusercontent.com/hgetac1/hgetac1/master/header_image.png
+[banner]: https://raw.githubusercontent.com/hgetac1/hgetac1/master/banner.png
 [website]: http://weightheway.com/
 [linkedin]: https://www.linkedin.com/in/haleluya-getachew/
