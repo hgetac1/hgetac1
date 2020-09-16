@@ -1,7 +1,7 @@
 [![bg][banner]][website]
 <h2 align="center">Hi 👋🏽, I'm Haleluya.</h1>
 
-## I'm a Sister, Learner, and Data Geek!
+## I'm a Sister, Learner, and Data Lover!
 - 🔭 I’m currently working on a project to assist the residents of Baltimore City 🏙️. 
 - 💡 I’m currently learning how powerful SQL really is. 
 - 💬 Ask me about: music 🎧, growth 🌱, & the Gospel 🙌🏽.
