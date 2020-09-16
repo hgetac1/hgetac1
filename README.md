@@ -1,3 +1,4 @@
+![](header_image.png)
 <h2 align="center">Hi 👋🏽, I'm Haleluya.</h1>
 
 ## I'm a Sister, Learner, and Data Geek!
